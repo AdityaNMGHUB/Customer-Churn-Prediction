@@ -1,3 +1,10 @@
+
+## 🚀 Try the Live App
+
+👉 [Click here to access the app](https://customer-churn-prediction-i3rnas2kycnpikx8jzygkh.streamlit.app/)
+
+---
+
 # Customer Churn Prediction Web App
 
 This project predicts whether a telecom customer is likely to **churn (leave the service)** or stay, based on their account and service details. It uses **Logistic Regression** for modeling and **Streamlit** for deployment.
@@ -60,12 +67,6 @@ The dataset contains information about customer demographics, account informatio
 2. **Model Training:** Logistic Regression using scikit-learn.
 3. **Web App:** Built using Streamlit.
 4. **Deployment:** Hosted on Streamlit Cloud.
-
----
-
-## 🚀 Try the Live App
-
-👉 [Click here to access the app](https://customer-churn-prediction-i3rnas2kycnpikx8jzygkh.streamlit.app/)
 
 ---
 
