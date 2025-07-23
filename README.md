@@ -65,9 +65,7 @@ The dataset contains information about customer demographics, account informatio
 
 ## 🚀 Try the Live App
 
-👉 [Click here to access the app](https://customer-churn-prediction-28wqeb6mnct84fkneyeby7.streamlit.app/)
-
-
+👉 [Click here to access the app](https://customer-churn-prediction-i3rnas2kycnpikx8jzygkh.streamlit.app/)
 
 ---
 
